@@ -1,2 +1,2 @@
-@set PATH=%ProgramFiles%\\VideoLAN\\VLC\\;%PATH%
-python downloader.py
+@set PATH=C:\Program Files (x86)\VideoLAN\VLC\;%PATH%
+@python downloader.py
